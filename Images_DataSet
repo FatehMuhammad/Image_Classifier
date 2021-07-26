@@ -1,0 +1,4 @@
+Images DataSet have been uploaded on Google Drive, below is the link to download DataSet. DataSet includes TrainData.csv ( You have to split it into 75% training and 25% testing. This percentage can be different according to your choice.). Trainlabels.csv is also given.
+P.S. TestData.csv file was given to me by the instructor to check accuracy of my models. This was just for evaluation purposes, and labels were not given.
+
+Googlr Drive Link: https://drive.google.com/drive/folders/1bEfiShi2Zp8VdMnNSHSce0LWqFO-dBZZ?usp=sharing
